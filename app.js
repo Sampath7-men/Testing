@@ -5,7 +5,7 @@ const server = http.createServer((req, res) => {
 
   res.end(
     "Deployment Test Successful!\n\n" +
-    "Server is running on AWS EC2\n" +
+    ""Server is running on AWS EC2 - CI/CD Test"\n" +
     "This is a simple Node.js app for manual deployment practice\n"
   );
 });

@@ -1,0 +1,11 @@
+{
+"name": "my-deploy-app",
+"version": "1.0.0",
+"description": "Simple Node.js app for AWS EC2 deployment practice",
+"main": "app.js",
+"scripts": {
+"start": "node app.js"
+},
+"author": "student",
+"license": "ISC"
+}
